@@ -53,7 +53,7 @@ if '1' in ans_dos:
 elif '2' in ans_dos:
 	cmd = os.system("python3 UDP_Tide.py")
 elif '3' in ans_dos:
-	cmd = os.system("python3 syn_Tide.p")
+	cmd = os.system("python3 syn_Tide.py")
 else:
 	print("INVALID OPTION")
 
