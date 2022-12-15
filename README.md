@@ -22,7 +22,9 @@ For bug reports or enhancements, please open an [issue](https://github.com/Hanil
 
 # :inbox_tray: &nbsp; Installation &nbsp; :inbox_tray:
 
-run the code , it is self sufficient to install dependencies 
+*  Some Scripts are self sufficient to install dependecies 
+*  Run setup.py to install some dependecies 
+*  And if still Error occur please install it on your own : )  
 
 # Usuage 
 * run main.py 
