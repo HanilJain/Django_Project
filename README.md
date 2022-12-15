@@ -32,3 +32,8 @@ For bug reports or enhancements, please open an [issue](https://github.com/Hanil
 
 run the code , it is self sufficient to install dependencies 
 
+# Usuage 
+* run main.py 
+* keep file in same folder 
+
+
