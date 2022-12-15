@@ -30,4 +30,31 @@ For bug reports or enhancements, please open an [issue](https://github.com/Hanil
 * run main.py 
 * keep file in same folder 
 
-
+ ## Request & About My Work
+ 
+ I was not able to explain about my work in the form but believe me I have worked a lot for it go through the code and you would know about it. I request to read about my work and skills I have gain here and consider it. 
+ 
+ Skills I have learned in Hacking : 
+ * Sql Injection(Blind and Error)
+ * Html Injection
+ * Command Line Injection
+ * XSS
+ * Brute Force
+ * DDOS / DOS
+ * OWASP top 10 
+ 
+ Tools Worked on :
+ * wireshark
+ * Sqlmap 
+ * metasploit
+ * OWASP
+ * NMap
+ * Nikto
+ * Acunetix
+ * Netsparker
+ * Aircrack-ng
+ * Maltego
+ * Burp Suite
+ * John the Ripper 
+ 
+ I know I have bragged about to many skills here but I have been into this vertical from past 3 years. Done 1 intership in company as cybersecurity analyst so I have idea about all of them and still learning 
