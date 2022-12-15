@@ -21,14 +21,6 @@ For bug reports or enhancements, please open an [issue](https://github.com/Hanil
 * Mac OS X :apple:
 
 # :inbox_tray: &nbsp; Installation &nbsp; :inbox_tray:
-## Resolve dependencies
-*Ubuntu/Debian System*
-=======
-* Linux
-* Mac OS X
-* Windows
-
-# Installation
 
 run the code , it is self sufficient to install dependencies 
 
